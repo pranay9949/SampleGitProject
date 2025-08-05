@@ -8,6 +8,7 @@ String name ;
 Double salary ;
  develop
 String address;
+String company;
 
  master
 
