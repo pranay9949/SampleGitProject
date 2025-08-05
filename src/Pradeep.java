@@ -6,11 +6,15 @@ public class Pradeep {
 Integer id ;
 String name ;
 Double salary ;
- develop
+
+
+
+
 String address;
 String company;
 
- master
+
+
 
 System.out.println("My fields declared...");
 
