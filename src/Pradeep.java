@@ -6,6 +6,7 @@ public class Pradeep {
 Integer id ;
 String name ;
 Double salary ;
+String address;
 
 System.out.println("My fields declared...");
 
